@@ -11,3 +11,4 @@ This is Kyoto's famous temple and shrine's information website written by using 
 3. Go to wikipedia links to click locations title in information window.
 
 Also you can filter locations using serch space above left of screen.
+
