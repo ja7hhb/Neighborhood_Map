@@ -1,7 +1,5 @@
 # NeighborhoodMapProject
 
-This is 4th project for Udacity <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004"> Full Stack Web Developer Nanodegree</a> Program.
-
 
 This is a web map application using Javascript and Knockout.js. I made this application obtain information using the Google Maps API and the Wikipedia API.
 As a result, the user can get locations, snippets, images of the targetted places.
