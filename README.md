@@ -3,6 +3,8 @@
 
 Built using Javascript and Knockout.js. To obtain information, using the Google Maps API and the Wikipedia API. As a result, the user can get locations, snippets, images of the targetted places.
 
+URL: neighborhood-map-kyoto.xyz
+
 <img src="https://github.com/ja7hhb/Neighborhood_Map/blob/image/Screen%20Shot%202018-07-11%20at%204.22.52%20PM.png" alt="Smiley face" height="100%" width="100%">
 
 
