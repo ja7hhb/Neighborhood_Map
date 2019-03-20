@@ -8,7 +8,13 @@
 </head>
 <body>
   <div class=list>
-    <input class=search placeholder="Search..." type="search" data-bind="textInput: filter"></input>
+
+
+    <!--<input class=search placeholder="Search..." type="search" data-bind="textInput: filter"></input>
+    -->
+    <input class=search placeholder="Search..." data-bind="textInput: filter"></input>
+
+
     <ul data-bind="foreach: filteredViewList">
       <li>
         <span data-bind="text: title, click: $parent.clickeList"></span>
